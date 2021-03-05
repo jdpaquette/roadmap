@@ -11,3 +11,9 @@
   * Days 1 - 10 of 100 Days of Code
   * Sections 1 - 5 of Git & Giuthub Bootcamp
   * SoloLear Python - Sections 
+
+  ### Week 2:
+  
+  ### Week 3:
+  
+  ### Week 4:
