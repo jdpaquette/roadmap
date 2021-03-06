@@ -2,18 +2,20 @@
 
 ### A journey to becoming a self-taught software developer
 
-## January 2021
+## January 2021 --
+* Time for New Year's Resolutions....
+  * Let's get coding and web designing on track AGAIN...
 
   ### Week 1:
   * Finished up holiday work and comptiplating what I want to do with my new years resolution
 
   ### Week 2:
   * This is the month that I decide to get back into coding and web design. Getting my 12.9" iPad Pro set up for design work with the Apple Pencil series 2. Apps I am using on the iPad:  
-    *   Adobe Draw
-    *   Adobe Sketch
-    *   Adobe Fresco
-    *   Procreate
-    *   Canva 
+    * Adobe Draw
+    * Adobe Sketch
+    * Adobe Fresco
+    * Procreate
+    * Canva 
 
 ## March 2021 -- 
 * [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu
