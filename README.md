@@ -37,8 +37,8 @@
 * [SoloLearn](https://www.sololearn.com/)
 
   ### Week 1: 
-  * Days 1 - 10 of 100 Days of Code
-  * Sections 1 - 5 of Git & Giuthub Bootcamp
+  * Days 1 - 4 of 100 Days of Code
+  * Sections 1 - 4 of Git & Giuthub Bootcamp
   * SoloLearn Python - Sections 
 
   ### Week 2:
