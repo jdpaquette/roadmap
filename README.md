@@ -21,6 +21,15 @@
   * Just researching coding programs and what format to start training. 
 
 ## February 2021 --
+* The new month
+
+  ### Week 1:
+
+  ### Week 2:
+
+  ### Week 3:
+
+  ### Week 4:
 
 ## March 2021 -- 
 * [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu
