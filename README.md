@@ -21,7 +21,7 @@
   * Just researching coding programs and what format to start training. 
 
 ## February 2021 --
-* The new month
+* New MacBook Pro 16 setup for coding and design work. Which books and courses do I plan to utilize?
 
   ### Week 1:
 
