@@ -40,7 +40,7 @@
 * [SoloLearn](https://www.sololearn.com/)
 
   ### Week 1: 
-  * Days 1 - 4 of 100 Days of Code
+  * Days 1 - 4 of 100 Days of Python Code
   * Sections 1 - 4 of Git & Giuthub Bootcamp
   * SoloLearn Python - Sections 1-22 (Basic Concepts | Strings & Variables | Control Structures)
 
