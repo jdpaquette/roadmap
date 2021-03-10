@@ -24,8 +24,10 @@
 * New MacBook Pro 16 setup for coding and design work. Which books and courses do I plan to utilize? I am thinking Udemy / freecodecamp / SoloLearn for mobile use. 
 
   ### Week 1:
+   * Books of interest
 
   ### Week 2:
+   * Coding Sites
 
   ### Week 3:
 
