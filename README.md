@@ -45,6 +45,7 @@
   * SoloLearn Python - Sections 1-22 (Basic Concepts | Strings & Variables | Control Structures)
 
   ### Week 2:
+  * Days 4 - 9 of 100 Days of Python Code
   
   ### Week 3:
   
