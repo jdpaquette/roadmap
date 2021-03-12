@@ -28,6 +28,7 @@
 
   ### Week 2:
    * Coding Sites
+    * Zero-to-Mastery (ZTZM) Python
 
   ### Week 3:
 
