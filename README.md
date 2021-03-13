@@ -2,7 +2,11 @@
 
 ### A journey to becoming a self-taught software developer
 
+## Intro
 
+## Equipment
+
+## Coding Sites / Programs
 
 ## March 2021 -- 
 * [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu
