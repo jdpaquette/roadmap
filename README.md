@@ -5,6 +5,9 @@
 ## Intro
 
 ## Equipment
+   * 2019 MacBook Pro 16"
+   * 2020 12.9" iPad Pro
+   * 2019 Razer Blade Stealth 13"
 
 ## Coding Sites / Programs
 
