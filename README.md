@@ -20,7 +20,7 @@
 
   ### Week 2:
   * Days 4 - 9 of 100 Days of Python Code
-  * Section 1 -   Of ZTM Python
+  * Sections 1 - 60 Of ZTM Python
 
   ### Week 3:
   
