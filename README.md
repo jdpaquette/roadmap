@@ -31,5 +31,5 @@
   * Sections 1 - 60 Of ZTM Python
 
   ### Week 3:
-  
+  * Sections 60 - of ZTM Python
   ### Week 4:
