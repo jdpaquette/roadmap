@@ -33,5 +33,6 @@
   ### Week 3:
   * Sections 60 - of ZTM Python
   * SoloLearn Python sections 22 -
+  * Project Odin
 
   ### Week 4:
