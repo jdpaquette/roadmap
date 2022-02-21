@@ -15,12 +15,12 @@
    * 2019 Razer Blade Stealth 13"
 
 ## Coding Sites / Programs I plan to use to get "Job Ready"
-   * freecodecamp
-   * Odin Project
-   * SoloLearn
-   * Zero-to-Mastery Academy
-   * Udemy - Dr. Angela Yu
-   * Udemy - Colt Steele
+   * [freecodecamp](https://www.freecodecamp.org/)
+   * [Odin Project](https://www.theodinproject.com/)
+   * [SoloLearn](https://www.sololearn.com/home)
+   * [Zero-to-Mastery Academy](https://zerotomastery.io/academy/)
+   * [Udemy - Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+   * [Udemy - Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 ## February 2022
 * OK time to get this journey going for real. Both of my kids will have graduated college by the end of May 2022. There is no real reason to stay at Saint Leo University any longer. I will be working to get my skills up to par for a full-time coding / web development job by August 2022. They say those that can't do, TEACH. Let's see if I can turn that around and say those that teach, can ALSO do... Time to move on from my time as a manager in Higher Education and Computer Programming Adjunct to full-time developer.
