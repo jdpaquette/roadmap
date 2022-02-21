@@ -1,7 +1,7 @@
 # My Full-Stack Web Developer Roadmap
 
 ### A journey to becoming a self-taught full-stack web developer
-   #### Soft-goal job-ready (August 1, 2022)   #### Hard-goal employed (Jan 1, 2023)
+   #### Soft-goal job-ready (August 1, 2022) --- Hard-goal employed (Jan 1, 2023)
 
 ## Education
    * 18 Graduate Credits in Cyber Security from Saint Leo University (July 2018)
