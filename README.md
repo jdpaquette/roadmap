@@ -42,13 +42,9 @@
 
 - April 10th - Started ZTM_Python Bootcamp from ZTM_Academy learning Python Basics using Python 3.10 and the PyCharm IDE from JetBrains. I also have VS Code set-up to handle Python and Web Development as a more lighter weight solution to coding as needed.
 
-- ### Week 1:
+- Also started the the 100 Days of Code: The Complete Python Pro Bootcamp from Dr. Angela Yu. I have a few of her courses and I am looking forward to completing them in conjunction with the ZTM Academy courses along the way. ie. Python to Python then Web Dev to Web Dev. This will give me exposure to two different teaching styles as well as completing different types of projects.
 
-  -
-
-  ### Week 2:
-
-  -
+- I am also try to add some math courses along the way. I am thinking about Trig / Calc 1 - 3 / and Discrete Math and possibly Statistics. It may be helpful to have the math background when it comes to data structures and algorithms. I will see how it goes and if that is something worthwhile to put some of my time into.
 
   ### Week 3:
 
