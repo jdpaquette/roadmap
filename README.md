@@ -4,15 +4,15 @@
 
 #### --- Hard-goal job-ready / employed (Jan 1, 2023)
 
-#### Soft-goal #1 ZTM_Python Bootcamp Completed (May 1, 2022)
+#### Soft-goal #1 ZTM_Python Bootcamp Completed (June 1, 2022)
 
-#### Soft-gaol #2 ZTM_Web Developer Bootcamp Completed (July 1, 2022)
+#### Soft-gaol #2 ZTM_Web Developer Bootcamp Completed (August 1, 2022)
 
 ## Education
 
 - 18 Graduate Credits in Cyber Security from Saint Leo University (July 2018)
 - Masters of Science in Biomedical Informatics from Nova Southeastern (December 2015)
-- Bachelors of Science in COmputer Information Systems from Saint Leo University (July 2011)
+- Bachelors of Science in Computer Information Systems from Saint Leo University (July 2011)
 - Associates of Arts Degree w/concentration in Computer Programming from Pasco-Hernando Community College (June 2009)
 
 ## Equipment
@@ -46,8 +46,8 @@
 
 - I am also try to add some math courses along the way. I am thinking about Trig / Calc 1 - 3 / and Discrete Math and possibly Statistics. It may be helpful to have the math background when it comes to data structures and algorithms. I will see how it goes and if that is something worthwhile to put some of my time into.
 
-  ### Week 3:
+### Week 3:
 
-  -
+-
 
-  ### Week 4:
+### Week 4:
