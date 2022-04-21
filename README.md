@@ -42,9 +42,9 @@
 
 - April 10th - Started ZTM_Python Bootcamp from ZTM_Academy learning Python Basics using Python 3.10 and the PyCharm IDE from JetBrains. I also have VS Code set-up to handle Python and Web Development as a more lighter weight solution to coding as needed.
 
-- Also started the the 100 Days of Code: The Complete Python Pro Bootcamp from Dr. Angela Yu. I have a few of her courses and I am looking forward to completing them in conjunction with the ZTM Academy courses along the way. ie. Python to Python then Web Dev to Web Dev. This will give me exposure to two different teaching styles as well as completing different types of projects.
+- Also started the the 100 Days of Code: The Complete Python Pro Bootcamp from Dr. Angela Yu. I have a few of her courses and I am looking forward to completing them in conjunction with the ZTM Academy courses along the way. ie. Python to Python then Web Dev to Web Dev. This will give me exposure to two different teaching styles as well as completing different types of projects. --- update (Apr 20th) I stuck with Yu Python and completed all seven days worth of Python code by Sunday and as of today, I am on day 10. Had some fun with text based game / rock, paper, scissors, and hangman. Also created a random password generator and a caesar chipher encryption / decryption program.
 
-- I am also try to add some math courses along the way. I am thinking about Trig / Calc 1 - 3 / and Discrete Math and possibly Statistics. It may be helpful to have the math background when it comes to data structures and algorithms. I will see how it goes and if that is something worthwhile to put some of my time into.
+- I am also try to add some math courses along the way. I am thinking about Trig / Calc 1 - 3 / and Discrete Math and possibly Statistics. It may be helpful to have the math background when it comes to data structures and algorithms. I will see how it goes and if that is something worthwhile to put some of my time into. ---- update (Apr 20) did not do ANY math last week except in Python.
 
 ### Week 3:
 
