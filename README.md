@@ -48,6 +48,8 @@
 
 ### Week 3:
 
--
+- I have been enjoying Angela Yu Python and so far this week I am up to day 10 (Wednesday). I am finding a little issues with updating lists and dictionaries and when to use a for loop vs a while loop. Also -- in for / while loops, do we normally work in the negative??? Why "while not ..." instead of "while ...". It seems like Angela likes the negative version better i.e. "False". Maybe I am missing something that I will better understand while gaining more programming experience with Python and others.
+
+- I started Odin Project this week. Not sure if I should work Web Dev (ZTM / Angela / Odin) simultaneously with Python or complete more Python quickly. I will see what sits better with me as I go along. Mostly just trying to "Program Every Day" -- even if I am tired or busy, I try to get at least a solid hour in per day and usually more.
 
 ### Week 4:
