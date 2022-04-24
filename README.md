@@ -52,4 +52,6 @@
 
 - I started Odin Project this week. Not sure if I should work Web Dev (ZTM / Angela / Odin) simultaneously with Python or complete more Python quickly. I will see what sits better with me as I go along. Mostly just trying to "Program Every Day" -- even if I am tired or busy, I try to get at least a solid hour in per day and usually more.
 
+- Losing some focus. Having a hard time staying motivated this week. Need to try and focus on the end goal to gain a sense of purpose. So many different things I want to do and I keep going on different rabbit holes. Need to try and stick with one think and stay on topic.
+
 ### Week 4:
