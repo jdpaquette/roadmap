@@ -54,4 +54,6 @@
 
 - Losing some focus. Having a hard time staying motivated this week. Need to try and focus on the end goal to gain a sense of purpose. So many different things I want to do and I keep going on different rabbit holes. Need to try and stick with one think and stay on topic.
 
+- Started new role at work that is physically and mentally training this week. Expected to last at least all through week 4. I am finding it hard to make time for putting in coding time upon arriving home from work. All I seem to want to do is vegitate in front of the TV and go to bed early. Need to find more focus.
+
 ### Week 4:
